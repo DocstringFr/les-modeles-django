@@ -1,0 +1,6 @@
+id,title,slug,published,date,content,description,author_id
+3,"3 options de filtre dans l'administration de Django",3-options-de-filtre-django,1,2021-02-16,Contenu test,"Découvre 3 options de filtre de l'administration de Django",2
+4,Créer un Bot Discord avec Python,creer-un-bot-discord-python,1,2021-01-15,"Contenu de l'article",Apprends à créer un bot Discord avec Python,2
+5,Le formatage des chaines de caractères,le-formatage-chaines,0,2021-04-06,,Apprends à formater des chaines de caractères,NULL
+6,Les bases de Django,les-bases-de-django,0,NULL,,Découvre toutes les bases du framework Django,NULL
+8,Les modèles avec Django,les-modeles-avec-django,0,NULL,,Découvre le fonctionnement des modèles avec Django,2
